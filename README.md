@@ -73,14 +73,14 @@ Challenges en ligne, difficulté croissante. Un très bon moyen d'apprendre les 
 Graven est un Youtubeur qui vous guidera pas à pas en une dizaine de vidéos sur les choses importantes que vous allez traiter rapidement au début de la formation sur Java (au moins jusqu'à la vidéo #10)
 
 #### HTML - CSS
-- 
+- Cours openClassroom (certification) donne un bon début d'apprentissage pour ce module
 - 
 
 
 
 ## Pour prendre de l'avance
 #### MySQL
--
+- Toutes les commandes Mysql se trouvent sur ce site avec examples à l'appui http://sql.sh/
 -
 
 #### JSP
